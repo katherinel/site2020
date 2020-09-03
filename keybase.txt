@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/katherinel
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://katherineleipper.com
+  * I am katherinel (https://keybase.io/katherinel) on keybase.
+  * I have a public key ASAm252q0RzLY_4mJGm3aosCFFhERCwurz_dihknQKTeBQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01204398c15c57bf948a637ce235e39fdf356f12122f5f0dc16649d6fe45519026d00a",
+      "host": "keybase.io",
+      "kid": "012026db9daad11ccb63fe262469b76a8b02145844442c2eaf3fdd8a192740a4de050a",
+      "uid": "e329955ac3865732589854b4d391af19",
+      "username": "katherinel"
+    },
+    "merkle_root": {
+      "ctime": 1586149066,
+      "hash": "e758b5b28094fe500f832d2d7cda60a3276f66b2f9ac11aab26c5c51b55d82e3ed41b1103baf0b6662e68bbe1dff900fa0730c0f8e31228f9647762ec6489dab",
+      "hash_meta": "b7e0dc299aa08773a10b3e2462d8446a935965254a2e772607afd2a0b296978a",
+      "seqno": 15778927
+    },
+    "service": {
+      "entropy": "bvWmIw2Z9LzAHuG4swr9Xfi+",
+      "hostname": "katherineleipper.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.3.0"
+  },
+  "ctime": 1586149079,
+  "expire_in": 504576000,
+  "prev": "48e23d44c367adf77ac18553c1980dda8517de1cbb11fb21f7bb275baea5bd79",
+  "seqno": 86,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgJtudqtEcy2P+JiRpt2qLAhRYREQsLq8/3YoZJ0Ck3gUKp3BheWxvYWTESpcCVsQgSOI9RMNnrfd6wYVTwZgN2oUX3hy7Efsh97snW66lvXnEIBbFDYetSShni074ULv3R3okvSlynl7YFhcaPaq/UixEAgHCo3NpZ8RA2XB8XIh/qsuOoVMmyJLmPP7zDhYadGDkUjFhqT7FdRAj5SugQS9C/hL4Kj2Pj1nzY16j0Yep9Nslt0dK38adCqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIFEuFWI8TDl+IgEHZvSuklFIKZPiq48nWlzO92rNIWtuo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/katherinel
+
+==================================================================
